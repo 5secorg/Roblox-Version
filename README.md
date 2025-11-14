@@ -7,7 +7,7 @@
 
 ## 📦 ดาวน์โหลดเวอร์ชันล่าสุด
 > 👉 ดูทั้งหมดได้ที่หน้า **Releases**  
-> https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/releases
+> [https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/releases](https://github.com/5secorg/Roblox-Version/releases)
 
 ---
 
